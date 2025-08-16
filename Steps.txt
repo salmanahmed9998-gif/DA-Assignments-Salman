@@ -1,0 +1,16 @@
+Get bashgg here
+git init
+git status
+git add -A
+git status
+git commit -m "Work Complete"
+
+error who are you? =>
+git confir -- global user.name "Salman Ahmed"
+git config -- global user.email "salmanahmed9998@gmail.com"
+
+
+git remote add origin link
+
+git push -u origin master
+
